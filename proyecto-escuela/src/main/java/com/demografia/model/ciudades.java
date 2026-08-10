@@ -18,6 +18,6 @@ public class ciudades {
 
 	public void setNombre(String string) {
 		// TODO Auto-generated method stub
-		// puto el que no lea
+
 	}
 }
